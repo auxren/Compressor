@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=C5-1
+Change Component Footprint: Designator=C5 Old Footprint=0603 New Footprint=CAPC0603(1608)100_L
+Change Component Comment : Designator=C5 Old Comment=47pF New Comment=47uF
+Change Component Designator: OldDesignator=C1 NewDesignator=C15
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C12 NewDesignator=C7
+Change Component Designator: OldDesignator=C13 NewDesignator=C6
+Change Component Designator: OldDesignator=C15 NewDesignator=C12
+Change Component Designator: OldDesignator=CV1 NewDesignator=CV
+Change Component Designator: OldDesignator=D1 NewDesignator=D5
+Change Component Designator: OldDesignator=D2 NewDesignator=D4
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D1
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=EC+1 NewDesignator=EC+
+Change Component Designator: OldDesignator=GAIN1 NewDesignator=GAIN
+Change Component Designator: OldDesignator=IN1 NewDesignator=IN
+Change Component Designator: OldDesignator=MAGIC1 NewDesignator=MAGIC
+Change Component Designator: OldDesignator=OUT1 NewDesignator=OUT
+Change Component Designator: OldDesignator=R1 NewDesignator=R18
+Change Component Designator: OldDesignator=R2 NewDesignator=R17
+Change Component Designator: OldDesignator=R3 NewDesignator=R16
+Change Component Designator: OldDesignator=R4 NewDesignator=R14
+Change Component Designator: OldDesignator=R5 NewDesignator=R13
+Change Component Designator: OldDesignator=R6 NewDesignator=R12
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R3
+Change Component Designator: OldDesignator=R13 NewDesignator=R2
+Change Component Designator: OldDesignator=R14 NewDesignator=R1
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R6
+Change Component Designator: OldDesignator=R18 NewDesignator=R5
+Change Component Designator: OldDesignator=R19 NewDesignator=R4
+Change Component Designator: OldDesignator=R20 NewDesignator=R25
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=SC1 NewDesignator=SC
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change component parameters: Designator = "C5"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\TQJWFSDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "603-C0603FRNPO9BN470 "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "C0603FRNPO9BN470 "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±0.5pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "NPO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=C5-2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC5_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R17-2
+Added Pin To Net: NetName=NetC5_1 Pin=U2-13
+Added Net: Name=NetC5_1

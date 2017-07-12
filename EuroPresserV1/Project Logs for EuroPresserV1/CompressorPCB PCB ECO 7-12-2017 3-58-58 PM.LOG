@@ -1,0 +1,22 @@
+Added Component: Designator=D1(SOT23_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(SOT23_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(Red/Green LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor_Pn"; Value = "696-SSL-LX3044IGW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Pn"; Value = "SSL-LX3044IGW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=D1-1
+Added Pin To Net: NetName=NetC11_2 Pin=D1-3
+Added Pin To Net: NetName=NetC11_2 Pin=D2-1
+Added Pin To Net: NetName=NetC6_2 Pin=D2-3
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component D1 MBD101
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component D2 MBD101
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component D3 Red/Green LED
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component VR1 50k Trim
+Added Room: Name=CompressorWithDualLED

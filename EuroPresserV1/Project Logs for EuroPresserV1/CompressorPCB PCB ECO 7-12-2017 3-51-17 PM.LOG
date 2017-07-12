@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=-12V Pin=VR3-1
+Removed Pin From Net: NetName=NetR22_2 Pin=VR3-2
+Removed Pin From Net: NetName=+12V Pin=VR3-3
+Removed Member From Class: ClassName=CompressorWithDualLED Member=VR3
+Change Component Designator: OldDesignator=J1 NewDesignator=IN
+Change Component Designator: OldDesignator=J2 NewDesignator=SC
+Change Component Designator: OldDesignator=J3 NewDesignator=OUT
+Change Component Designator: OldDesignator=VR1 NewDesignator=MAGIC
+Change Component Designator: OldDesignator=VR2 NewDesignator=GAIN
+Added Component: Designator=VR1(BOUR-3362P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1632"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor_Pn"; Value = "652-3362P-1-503LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Pn"; Value = "3362P-1-503LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 6.6 x 6.99 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3326P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "50 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "220 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=VR1-1
+Added Pin To Net: NetName=NetR22_2 Pin=VR1-2
+Added Pin To Net: NetName=-12V Pin=VR1-3
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetIN_3
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetMAGIC_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetGAIN_2
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component VR1 50k Trim
+Added Room: Name=CompressorWithDualLED
