@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=D4-1
+Removed Pin From Net: NetName=NetC6_2 Pin=D4-3
+Change component parameters: Designator = "P1"; Footprint = "HDR2X5"; UniqueID = "\BBGXASIO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "855-M20-9980545"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; UniqueID = "\XBPAXIWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_2 Pin=D1-1

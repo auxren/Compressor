@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CompressorPCB.PcbDoc   7/15/2017  12:29:40 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CompressorPCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             41        PTH        11.65inch (295.92mm)
+T2      30mil (0.75mm)                                            Round             3         PTH        0.34inch (8.67mm)
+T3      30mil (0.762mm)                                           Round             8         PTH        1.98inch (50.37mm)
+T4      35mil (0.9mm)                                             Round             12        PTH        4.40inch (111.66mm)
+T5      39mil (1mm)                                               Round             6         PTH        1.48inch (37.50mm)
+T6      59mil (1.5mm)                                             Round             9         PTH        2.86inch (72.74mm)
+T7      87mil (2.2mm)                                             Round             4         PTH        1.92inch (48.70mm)
+T8      118mil (3mm)                                              Round             3         PTH        1.55inch (39.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              86
+
+Total Processing Time (hh:mm:ss) : 00:00:00

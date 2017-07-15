@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [EuroPresserV1.PrjPcb]
+   Generated File[EuroPresserV1.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:05:05 AM On 7/15/2017

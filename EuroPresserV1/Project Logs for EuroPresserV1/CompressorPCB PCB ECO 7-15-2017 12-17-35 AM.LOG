@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=D4-1
+Removed Pin From Net: NetName=NetC6_2 Pin=D4-3
+Change Component Designator: OldDesignator=C1 NewDesignator=C7
+Change Component Designator: OldDesignator=C2 NewDesignator=C8
+Change Component Designator: OldDesignator=C3 NewDesignator=C9
+Change Component Designator: OldDesignator=C4 NewDesignator=C11
+Change Component Designator: OldDesignator=C5 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C13
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C14
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C4
+Change Component Designator: OldDesignator=C13 NewDesignator=C2
+Change Component Designator: OldDesignator=C14 NewDesignator=C1
+Change Component Designator: OldDesignator=C15 NewDesignator=C3
+Change Component Designator: OldDesignator=D1 NewDesignator=D3
+Change Component Designator: OldDesignator=D2 NewDesignator=D4
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=POWER NewDesignator=P1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R16
+Change Component Designator: OldDesignator=R3 NewDesignator=R20
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R24
+Change Component Designator: OldDesignator=R6 NewDesignator=R14
+Change Component Designator: OldDesignator=R7 NewDesignator=R21
+Change Component Designator: OldDesignator=R8 NewDesignator=R17
+Change Component Designator: OldDesignator=R9 NewDesignator=R1
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R4
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R5
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R9
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R25
+Change Component Designator: OldDesignator=R19 NewDesignator=R8
+Change Component Designator: OldDesignator=R20 NewDesignator=R13
+Change Component Designator: OldDesignator=R21 NewDesignator=R6
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R10
+Change Component Designator: OldDesignator=R24 NewDesignator=R11
+Change Component Designator: OldDesignator=R25 NewDesignator=R22
+Change Component Designator: OldDesignator=SIDECHAIN NewDesignator=SC
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U1
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component D4 1N5819HW-7-F
+Added Room: Name=CompressorWithDualLED

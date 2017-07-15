@@ -1,0 +1,85 @@
+Change component parameters: Designator = "C1"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\QGYRTHNB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\UVTNRVEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\TYCBYEXP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\SKXMGYWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "NIC-CAPA2-4X5.8_V"; UniqueID = "\BMLDPPKP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "80-EDH106M025S9BAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "EDH106M025S9BAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "NIC-CAPA2-4X5.8_V"; UniqueID = "\TYWEERXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "80-EDH106M025S9BAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "EDH106M025S9BAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\IYGKTDWK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "NIC-CAPA2-4X5.8_V"; UniqueID = "\WYFULYLW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "80-EDH106M025S9BAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "EDH106M025S9BAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetU4_6 New Net Name=NetU1_6

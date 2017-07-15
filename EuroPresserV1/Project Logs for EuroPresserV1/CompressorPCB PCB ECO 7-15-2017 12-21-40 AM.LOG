@@ -1,0 +1,9 @@
+Added Component: Designator=D1(SOT23_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor_Pn"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Pn"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_2 Pin=D1-1
+Added Pin To Net: NetName=NetC6_2 Pin=D1-3
+Added Member To Class: ClassName=CompressorWithDualLED Member=Component D1 MBD101

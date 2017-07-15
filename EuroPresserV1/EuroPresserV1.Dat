@@ -1,0 +1,33 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Distributor~String~Distributor~100|Field=Distributor_Pn~String~Distributor_Pn~100|Field=Mfr~String~Mfr~100|Field=Mfr_Pn~String~Mfr_Pn~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~EuroPresserV1.PrjPcb|ReportField=ProjectFullPath~C:\compressor\EuroPresserV1\EuroPresserV1.PrjPcb|ReportField=Title~Bill of Materials For Project [EuroPresserV1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~60|ReportField=ReportTime~12:30:45 AM|ReportField=ReportDate~7/15/2017|ReportField=ReportDateTime~7/15/2017 12:30:45 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/15/2017|ReportField=CurrentTime~12:19:59 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\compressor\EuroPresserV1\CompressorWithDualLED.SchDoc|ReportField=DocumentName~CompressorWithDualLED.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/15/2017|ReportField=Organization~|ReportField=ProjectName~EuroPresserV1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~EuroPresserV1.PrjPcb|ReportField=DataSourceFullPath~C:\compressor\EuroPresserV1\EuroPresserV1.PrjPcb|ReportField=PCBDataSourceFileName~CompressorPCB.PcbDoc|ReportField=PCBDataSourceFullPath~C:\compressor\EuroPresserV1\CompressorPCB.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CAP 47uF 10V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD|C1, C2|Mouser|647-UEP1E470MED|Nichicon|UEP1E470MED|2|47uF
+2|Aluminum Electrolytic Capacitor, UD Series, Low Impedance, 10 uF, 25 V, + / - 20%, -55 to 105 degC, Chip Type, 4 x 5.8 mm D x L, Pb-Free, Reel|C3, C12, C14|Mouser|80-EDH106M025S9BAA|Kemet|EDH106M025S9BAA|3|
+3|CAP 47uF 10V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD|C4|Mouser|505-MKS02.1/63/10|WIMA|MKS0C031000C00KSSD|1|100nF
+4|CAP 5.1pF 25V ±0.5pF 0603 (1608 Metric) Thickness 1mm SMD|C5|Mouser|603-C0603FRNPO9BN470|Yageo|C0603FRNPO9BN470|1|47uF
+5|CAP 47uF 10V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD|C6|Mouser|81-GRM188R71H473KA61|Murata|GRM188R71H473KA61D|1|47uF
+6|CAP|C7, C9, C10, C13, C15|Mouser|581-MM035C104KCZ2A|AVX|MM035C104KCZ2A|5|
+7|CAP 4.7uF 10V ±10% 0805 (2012 Metric) Thickness 1.55mm SMD|C8|Mouser|81-GCJ21BL81E105KA1L|Murata|GCJ21BL81E105KA1L|1|1uF
+8|CAP 4.7uF 10V ±10% 0805 (2012 Metric) Thickness 1.55mm SMD|C11|Mouser|81-GRM21BC71E106KE1L|Murata|GRM21BC71E106KE11L|1|10uF
+9|Socket, [NoValue], [NoValue], Socket, Trimming Potentiometer, 5K Ohm +/- 10%, -55 to 125 degC, 3-Pin 19.05 x 4.83 x 6.6 mm THD, Transparent Housing, RoHS, [NoValue], Trimming Potentiometer, 5K Ohm +/- 10%, -55 to 125 degC, 3-Pin 19.05 x 4.83 x 6.6 mm THD, Transparent Housing, RoHS, [NoValue], [NoValue]|CV, D1, D2, EC+, GAIN, IN, MAGIC, OUT, SC|Mouser||||9|
+10||D3|Mouser|696-SSL-LX3044IGW|Lumex|SSL-LX3044IGW|1|
+11|1.0 A Surface Mount Schottky Barrier Rectifier, 40 V, -65 to 125 degC, 2-Pin SOD-123 Package, RoHS, Tape and Reel|D4, D5|Mouser|621-1N5819HW-F|Diodes Inc.|1N5819HW-7-F|2|
+12|Header, 5-Pin, Dual row|P1||855-M20-9980545|||1|
+13|PNP General Purpose Amplifier|Q1, Q2|Mouser|863-MMBT3906LT1G|On Semi|MMBT3906LT1G|2|
+14|Res|R1, R13|Mouser|603-RC0603FR-071M6L|Yageo|RC0603FR-071M6L|2|1.6M
+15|Thin Film Resistor|R2, R8, R25|Mouser|603-RT0603FRE07100KL|Yageo|RT0603FRE07100KL|3|100k
+16|Res|R3, R17|Mouser|603-RT0603FRE0720KL|Yageo|RT0603FRE0720KL|2|20k
+17|Res|R4, R6, R15|Mouser|603-RT1206FRE07806KL|Yageo|RT1206FRE07806KL|3|806k
+18|Res|R5, R19|Mouser|279-RN73CA-6.04K|TE Connectivity|RN73C2A6K04BTDF|2|6.04k
+19|Res|R7, R10, R11|Mouser|603-RT0603FRE0712KL|Yageo|RT0603FRE0712KL|3|12k
+20|Res|R9|Mouser|603-RT0402BRD0728KL|Yageo|RT0402BRD0728KL|1|28k
+21|Res|R12, R14|Mouser|603-RC0402FR-072ML|Yageo|RC0402FR-072ML|2|2M
+22|Res|R16|Mouser||Susumu|RR0816P-104-D|1|4.7k
+23|Res|R18|Mouser|594-MCT06030Z0000ZP5|Vishay|MCT06030Z0000ZP500|1|0
+24|Res|R20, R21|Mouser|603-RT0603FRE0710KL|Yageo|RT0603FRE0710KL|2|10k
+25|Res|R22|Mouser|603-RT0603DRD07300KL|Yageo|RT0603DRD07300KL|1|300k
+26|Res|R23|Mouser|603-RT0603BRD0751RL|Yageo|RT0603BRD0751RL|1|51
+27|Res|R24|Mouser|603-RT0603DRE07200RL|Yageo|RT0603DRE07200RL|1|200
+28||U1|Mouser|887-340S14-U|THAT Corp|340S14-U|1|
+29||U2|Mouser|887-4301W20-U|THAT Corp|4301W20-U|1|
+30|Low Power Low Offset Voltage Dual Comparator, 8-pin Narrow SOIC|U3|Mouser|595-LM393DR|Texas Instruments|LM393DR|1|
+31|Wide Bandwidth Dual JFET Input Operational Amplifier, 8-pin Narrow SOIC|U4|Mouser||Texas Instruments|LF353MX/NOPB|1|
+32|Square Trimpot(R) Trimming Potentiometer, 10 KOhm, 300 V, -55 to 125 degC, 3-Pin THD, RoHS, Tube|VR1|Mouser|652-3362P-1-503LF|Bourns|3362P-1-503LF|1|
